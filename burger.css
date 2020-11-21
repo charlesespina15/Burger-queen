@@ -1,0 +1,163 @@
+
+
+body{
+  background-color:black;
+  width:1280px;
+  height:720px;
+   
+}
+#logo{
+    height:175px;
+    width:300px;
+    margin-left:450px;
+}
+.picture{
+  background: url('https://www.logolynx.com/images/logolynx/3c/3c52eeab29cac5f924460326278ba9a3.gif');
+  background-color:white;
+    border: 5px solid gray;
+  text-align: center;
+  height: 300px;
+  width: 380px;
+ margin-left:215px;
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.Buttons {
+  border:5px dashed yellow;
+  padding-top:5px;
+  width:380px;
+  padding-bottom:10px;
+  margin-top:320px;
+  margin-left:-5px;
+   
+  
+}
+
+.menu {
+  color:black;
+  height:550px;
+   width:300px;
+  border: 5px solid gray;
+  padding:5px;
+  margin:5px;
+  background-color:white;
+  margin-left:400px;
+  margin-top:-565px;
+}
+
+.sundae{
+  background-color:#DE8F18;
+    color:white;
+  height: 60px;
+  width: 83px;
+  margin-top: 10px;
+  margin-left:100px;
+  color: white;
+  padding-top: 40px;
+ 
+  padding-bottom:5px;
+}
+
+.sundae:hover{
+  background-color:#DEB718
+}
+.baconqueen{
+  background-color:#DE8F18;
+    color:white;
+  height: 70px;
+  width: 83px;
+  margin-top:-105px;
+  margin-left:190px;
+  color: white;
+    padding-top: 30px;
+  padding-bottom:5px;
+
+ 
+}
+
+.baconqueen:hover{
+  background-color:#DEB718
+}  
+.mushroomswissqueen{
+  background-color:#DE8F18;
+    color:white;
+height: 75px;
+  width: 83px;
+  margin-top:-105px;
+  margin-left: 10px;
+  color: white;
+    padding-top: 25px;
+  text-align: center;
+  padding-bottom:5px;
+}
+
+.mushroomswissqueen:hover{
+  background-color:#DEB718
+}  
+
+.pepperonibaconwhopper{
+  background-color:#DE8F18;
+    color:white;
+  height: 75px;
+  width: 83px;
+  margin-top: 5px;
+  margin-left: 10px;
+  color: white;
+    padding-top: 20px;
+  text-align: center;
+ 
+}
+
+.pepperonibaconwhopper:hover{
+  background-color:#DEB718
+}  
+
+.cheesewhopper{
+  background-color:#DE8F18;
+    color:white;
+  height: 67px;
+  width: 83px;
+  margin-top: -95px;
+  margin-left: 100px;
+  color: white;
+    padding-top: 28px;
+  text-align: center;
+ 
+}
+.cheesewhopper:hover{
+  background-color:#DEB718
+}  
+.cancel{
+  background-color:#DE8F18;
+    color:white;
+  height: 80px;
+  width: 83px;
+  margin-top: -95px;
+  margin-left: 190px;
+  color: white;
+  padding-top: 15px;
+ 
+  text-align: center;
+}
+.cancel:hover{
+  background-color:#DEB718
+}  
+.total{
+  background-color:#DE8F18;
+  color:white;
+  height: 140px;
+  width: 83px;
+  margin-top: -205px;
+  margin-left: 280px;
+  color: white;
+  padding-top: 65px;
+ text-align:center;
+ 
+}
+.total:hover{
+  background-color:#DEB718
+}  
+
